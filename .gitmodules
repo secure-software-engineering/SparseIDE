@@ -1,0 +1,6 @@
+[submodule "SparseHeros"]
+	path = SparseHeros
+	url = https://github.com/kadirayk/SparseHeros.git
+[submodule "SparseIDEClient"]
+	path = SparseIDEClient
+	url = https://github.com/kadirayk/SparseIDEClient.git
