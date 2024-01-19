@@ -1,6 +1,10 @@
 # SparseIDE
 
-This repository contains the SparseIDE framework proposed in our ICSE 2024 paper: "Symbol-Specific Sparsification of Interprocedural Distributive Environment Problems".  
+This repository contains the SparseIDE framework. SparseIDE is a scalable alternative to the original IDE framework, implemented on top of [Heros IFDS/IDE Solver](https://github.com/soot-oss/heros).
+
+## Publications
+Preprint is available:  
+[Symbol-Specific Sparsification of Interprocedural Distributive Environment Problems](/SparseIDE_preprint.pdf) (ICSE 2024)
 
 ## Content
 
@@ -15,8 +19,6 @@ This repository contains the SparseIDE framework proposed in our ICSE 2024 paper
 3. Find the executable jar, `SparseIDEClient-0.0.1-SNAPSHOT-jar-with-dependencies.jar` under `SparseIDEClient/target`
 
 ## Using the SparseIDE Framework
-
-SparseIDE extends the popular [Heros IFDS/IDE Solver](https://github.com/soot-oss/heros)
 
 To build and use SparseIDE:
 
