@@ -4,7 +4,7 @@ This repository contains the SparseIDE framework. SparseIDE is a scalable altern
 
 ## Publications
 Preprint is available:  
-[Symbol-Specific Sparsification of Interprocedural Distributive Environment Problems](/SparseIDE_preprint.pdf) (ICSE 2024)
+[Symbol-Specific Sparsification of Interprocedural Distributive Environment Problems](https://arxiv.org/abs/2401.14813) (ICSE 2024)
 
 ## Content
 
